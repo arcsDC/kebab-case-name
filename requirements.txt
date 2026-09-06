@@ -1,0 +1,3 @@
+# FiveM resources are executed by the FiveM client/server runtime.
+# No external Python dependencies are required for this Lua-based resource.
+# This file is provided to satisfy standard repository dependency declaration conventions.
